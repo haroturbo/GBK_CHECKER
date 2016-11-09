@@ -1,0 +1,48 @@
+* FontX2フォントのドキュメント
+
+    このパッケージ内のフォントは, Eiichiro Ito (GHC02331@niftyserve.or.jp)
+  がX11のフォントをFontX2フォントに変換したものです.
+
+    JISKAN16.FNT: generated from k14.bdf of XFree86 Release.
+    8x16rk.FNT:   generated from 7x14rk.bdf of XFree86 Release.
+
+* 著作権情報
+
+  * 伊藤栄一郎はこのパッケージ自体に対して著作権を主張しません.
+  * このパッケージ内のフォントの著作権はフォント毎に独立しています.
+  * 下記にオリジナルのbdfファイルに記述されている著作権情報を示します.
+    おのおのの著作権表示に従ってください.
+
+    jiskan16.bdf:
+      16x16 kanji font
+      from Japanese Industrial Standard, JIS X 9051-1984
+      named "16-dots Matrix Character Patterns for Display Devices"
+      "from JIS X 9051-1984, by permission to use"
+
+    8x16rk.bdf:
+      Copyright 1989 by Sony Corp.
+      Permission to use, copy, modify, and distribute this software and
+      its documentation for any purpose and without fee is hereby granted,
+      provided that the above copyright notices appear in all copies and
+      that both those copyright notices and this permission notice appear
+      in supporting documentation, and that the name of Sony Corp.
+      not be used in advertising or publicity pertaining to distribution
+      of the software without specific, written prior permission.  Sony
+      Corp. makes no representations about the suitability of this
+      software for any purpose.  It is provided "as is" without express or
+      implied warranty.
+
+      SONY DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS
+      SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+      FITNESS, IN NO EVENT SHALL SONY BE LIABLE FOR ANY
+      SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER
+      RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF
+      CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+      CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+      Copyright (c) 1987, 1988 Sony Corp.
+
+  * このパッケージを再配布する場合には, このドキュメントも含めた形にするか,
+    各フォントの著作権情報がわかるようにして下さい.
+  * このパッケージに関する質問は, フォントの作者に対してではなく,
+    Eiichiro Ito (GHC02331@niftyserve.or.jp)に行ってください.
